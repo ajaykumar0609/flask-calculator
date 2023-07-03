@@ -35,7 +35,7 @@ Worker Node-2
 
 Step4:Verify the nodes status--docker node ls
 
-Code Availability:https://github.com/gsbarure/flask-calculator.git
+Code Availability:[https://github.com/ajaykumar0609/flask-calculator.git]
 
 Step5:Create a service
 
@@ -82,7 +82,7 @@ Master Node:
 
 Worker node:
 
-Dockehub image:gajananbarure/gajananb-mycalci-app
+Dockehub image:ajaykumar0609/ajaykumar0609-mycalci-app
 
 Which platform should you use?
 
@@ -95,9 +95,9 @@ When starting, Docker Swarm is an easy-to-use solution to manage your containers
 If your applications are critical and you are looking to include monitoring, security features, high availability, and flexibility, then Kubernetes is the right choice.
 
 
-Code Availability:https://github.com/gsbarure/flask-calculator.git
+Code Availability:https://github.com/ajaykumar0609/flask-calculator.git
 
-Linkdin:https://www.linkedin.com/in/gajanan-barure-7351a4140
+Linkdin:https:https://www.linkedin.com/in/ajay-kumar-chippa-475164277/
 
 ***Happy Learning :)***✌✌
 
